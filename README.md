@@ -18,6 +18,8 @@ I build focused utilities that make development easier to inspect and understand
 | --- | --- | --- |
 | **Codex Monitor** | Follow Codex and Claude Code usage side by side in a native macOS app. | [Get started](https://github.com/Majorkimo/codex-monitor) · [Source ZIP](https://github.com/Majorkimo/codex-monitor/archive/refs/heads/main.zip) |
 | **AI Artifact Audit** | Review JavaScript and TypeScript for placeholders, apparently unwired controls, empty handlers, and suspicious success paths. Runs locally without executing the audited app. | [Run the scanner](https://github.com/Majorkimo/ai-artifact-audit) · [Source ZIP](https://github.com/Majorkimo/ai-artifact-audit/archive/refs/heads/main.zip) |
+| **Efficiency Router** | Choose suitable model capability and reasoning depth for Codex or Claude Code, with clear limits and fewer unnecessary retries. | [Install the skills](https://github.com/Majorkimo/efficiency-router) · [Source ZIP](https://github.com/Majorkimo/efficiency-router/archive/refs/heads/main.zip) |
+| **Problem Solver** | Diagnose blockers, compare approaches, test the next step, and verify the actual result. | [Install the skill](https://github.com/Majorkimo/problem-solver) · [Source ZIP](https://github.com/Majorkimo/problem-solver/archive/refs/heads/main.zip) |
 
 AI Artifact Audit reports source-pattern candidates for review. It does not identify AI authorship or replace a complete application audit.
 
